@@ -1,3 +1,7 @@
+## Description
+A brief summary of computer vision knowledge, which can be used for quick query at work or job interview.
+
+## Contents
 | 计算机视觉总结.md |
 | :---------------: |
 |       概述        |
